@@ -7,3 +7,5 @@ Processo automatizado e poderia ser inserido no google functions ou com algum cr
 Dashboard em Looker Studio, mas poderia ser em Power BI com a mesma facilidade de obtenção dos dados tratados.
 
 **https://lookerstudio.google.com/reporting/31ec702d-f782-4625-88fc-7e12cf73e36c/page/mC7xC**
+
+<img src="[https://github.com/mauricioqsouza/python_sheets_looker/blob/main/dash1.jpg](Dashboard)"width="100"> 
